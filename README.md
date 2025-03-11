@@ -15,6 +15,6 @@ def movement():
 ```
 
 The funktion is going to check if the **W** Key is pressed
-> ```if keys[pygame.K_w]:```
+> ```if keys[pygame.K_w]:``` \n
 then its going to move the player rectangle **UP** by subtracting 10 of the player's **Y Position** 
 > ``` player_pos -= 10 ```
